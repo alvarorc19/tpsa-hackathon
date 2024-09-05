@@ -1,20 +1,5 @@
-Macrotrends Data Download
-
-Ireland Birth Rate 1950-2024
-Original Source: United Nations - World Population Prospects
-
-DISCLAIMER AND TERMS OF USE: HISTORICAL DATA IS PROVIDED "AS IS" AND SOLELY
-FOR INFORMATIONAL PURPOSES - NOT FOR TRADING PURPOSES OR ADVICE.
-NEITHER MACROTRENDS LLC NOR ANY OF OUR INFORMATION PROVIDERS WILL BE LIABLE
-FOR ANY DAMAGES RELATING TO YOUR USE OF THE DATA PROVIDED.
-
-
-ATTRIBUTION: Proper attribution requires clear indication of the data source as "www.macrotrends.net".
-A "dofollow" backlink to the originating page is also required if the data is displayed on a web page.
-
-
 date, Births per 1000 People, Annual % Change
-1950-12-31,22.437
+1950-12-31,22.437, NA
 1951-12-31,22.247,-0.85
 1952-12-31,22.056,-0.86
 1953-12-31,21.865,-0.87
